@@ -1,6 +1,5 @@
-# Lessons learned from the past 11 years developing the Fatiando a Terra project
+# Design useful tools that do one thing well and work together: rediscovering the UNIX philosophy while building the Fatiando a Terra project
 
-Fatiando a Terra Project,
 Leonardo Uieda<sup>1</sup>,
 Lu Li<sup>2</sup>,
 Santiago Soler<sup>3,4</sup>
@@ -12,7 +11,10 @@ Santiago Soler<sup>3,4</sup>
 > <sup>3</sup> CONICET, Argentina
 > <br>
 > <sup>4</sup> Instituto Geofísico Sismológico Volponi, UNSJ, Argentina
->
+
+This is an invited presentation about the past, current, and future of the
+[Fatiando a Terra](https://www.fatiando.org) project. We will cover the 
+current functionality, recent developments, and lessons learned along the way.
 
 | | Information |
 |---:|:----|
@@ -20,6 +22,7 @@ Santiago Soler<sup>3,4</sup>
 | Abstract | ADD LINK AND ID |
 | Session | NS013 - Open-source software for near-surface geophysics and its applications |
 | When | TBD |
+
 
 ## Abstract
 
