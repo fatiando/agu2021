@@ -2,10 +2,11 @@
 
 Fatiando a Terra Project,
 Leonardo Uieda<sup>1</sup>,
-ADD YOUR NAME AND AFFILIATION HERE
+Lu Li<sup>2</sup>
 
 > <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK
 > <br>
+> <sup>2</sup> School of Earth Sciences, The University of Western Australia, Australia
 >
 
 | | Information |
