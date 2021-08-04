@@ -10,6 +10,7 @@ Santiago Soler<sup>3,4</sup>
 > <sup>2</sup> School of Earth Sciences, The University of Western Australia, Australia
 > <br>
 > <sup>3</sup> CONICET, Argentina
+> <br>
 > <sup>4</sup> Instituto Geofísico Sismológico Volponi, UNSJ, Argentina
 >
 
