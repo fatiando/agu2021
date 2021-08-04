@@ -1,12 +1,16 @@
-# Lessons learned from the past 11 years developing the Fatiando a Terra project
+# Design useful tools that do one thing well and work together: rediscovering the UNIX philosophy while building the Fatiando a Terra project
 
-Fatiando a Terra Project,
 Leonardo Uieda<sup>1</sup>,
-ADD YOUR NAME AND AFFILIATION HERE
+ADD YOUR NAME AND AFFILIATION HERE,
+and the Fatiando a Terra Project.
 
 > <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK
 > <br>
 >
+
+This is an invited presentation about the past, current, and future of the
+[Fatiando a Terra](https://www.fatiando.org) project. We will cover the 
+current functionality, recent developments, and lessons learned along the way.
 
 | | Information |
 |---:|:----|
@@ -14,6 +18,7 @@ ADD YOUR NAME AND AFFILIATION HERE
 | Abstract | ADD LINK AND ID |
 | Session | NS013 - Open-source software for near-surface geophysics and its applications |
 | When | TBD |
+
 
 ## Abstract
 
