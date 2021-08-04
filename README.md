@@ -1,12 +1,16 @@
 # Design useful tools that do one thing well and work together: rediscovering the UNIX philosophy while building the Fatiando a Terra project
 
 Leonardo Uieda<sup>1</sup>,
-ADD YOUR NAME AND AFFILIATION HERE,
-and the Fatiando a Terra Project.
+Lu Li<sup>2</sup>,
+Santiago Soler<sup>3,4</sup>
 
 > <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK
 > <br>
->
+> <sup>2</sup> School of Earth Sciences, The University of Western Australia, Australia
+> <br>
+> <sup>3</sup> CONICET, Argentina
+> <br>
+> <sup>4</sup> Instituto Geofísico Sismológico Volponi, UNSJ, Argentina
 
 This is an invited presentation about the past, current, and future of the
 [Fatiando a Terra](https://www.fatiando.org) project. We will cover the 
