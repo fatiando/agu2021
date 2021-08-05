@@ -2,27 +2,24 @@
 
 Leonardo Uieda<sup>1</sup>,
 Lu Li<sup>2</sup>,
-Santiago Soler<sup>3,4</sup>
+Santiago Soler<sup>3,4</sup>,
+Agustina Pesce<sup>3,4</sup>
 
 > <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK
-> <br>
-> <sup>2</sup> School of Earth Sciences, The University of Western Australia, Australia
-> <br>
-> <sup>3</sup> CONICET, Argentina
-> <br>
-> <sup>4</sup> Instituto Geofísico Sismológico Volponi, UNSJ, Argentina
+> <br> > <sup>2</sup> School of Earth Sciences, The University of Western Australia, Australia
+> <br> > <sup>3</sup> CONICET, Argentina
+> <br> > <sup>4</sup> Instituto Geofísico Sismológico Volponi, UNSJ, Argentina
 
 This is an invited presentation about the past, current, and future of the
-[Fatiando a Terra](https://www.fatiando.org) project. We will cover the 
+[Fatiando a Terra](https://www.fatiando.org) project. We will cover the
 current functionality, recent developments, and lessons learned along the way.
 
-| | Information |
-|---:|:----|
-| doi | [TBD](https://doi.org/TBD) |
-| Abstract | ADD LINK AND ID |
-| Session | NS013 - Open-source software for near-surface geophysics and its applications |
-| When | TBD |
-
+|          | Information                                                                   |
+| -------: | :---------------------------------------------------------------------------- |
+|      doi | [TBD](https://doi.org/TBD)                                                    |
+| Abstract | ADD LINK AND ID                                                               |
+|  Session | NS013 - Open-source software for near-surface geophysics and its applications |
+|     When | TBD                                                                           |
 
 ## Abstract
 
@@ -57,14 +54,14 @@ Our goals were to:
 
 The project is currently composed of the following packages:
 
-* Pooch: download and cache data files for research projects and documentation
+- Pooch: download and cache data files for research projects and documentation
   sample data.
-* Verde: machine-learning inspired point-cloud data processing and
+- Verde: machine-learning inspired point-cloud data processing and
   interpolation.
-* Harmonica: gravity and magnetic data processing, forward modelling, and
+- Harmonica: gravity and magnetic data processing, forward modelling, and
   inversion.
-* Boule: reference ellipsoids and normal gravity calculations.
-* RockHound: a collection of open-access datasets for use in documentation and
+- Boule: reference ellipsoids and normal gravity calculations.
+- RockHound: a collection of open-access datasets for use in documentation and
   tutorials.
 
 This presentation will cover the current available functionality and some of
