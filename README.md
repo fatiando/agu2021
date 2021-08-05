@@ -2,7 +2,8 @@
 
 Leonardo Uieda<sup>1</sup>,
 Lu Li<sup>2</sup>,
-Santiago Soler<sup>3,4</sup>
+Santiago Soler<sup>3,4</sup>,
+Agustina Pesce<sup>3,4</sup>
 
 > <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK
 > <br>
