@@ -14,15 +14,15 @@ Agustina Pesce<sup>3,4</sup>
 > <sup>4</sup> Instituto Geofísico Sismológico Volponi, UNSJ, Argentina
 
 This is an invited presentation about the past, current, and future of the
-[Fatiando a Terra](https://www.fatiando.org) project. We will cover the 
+[Fatiando a Terra](https://www.fatiando.org) project. We will cover the
 current functionality, recent developments, and lessons learned along the way.
 
 | | Information |
 |---:|:----|
-| doi | [TBD](https://doi.org/TBD) |
-| Abstract | ADD LINK AND ID |
-| Session | NS013 - Open-source software for near-surface geophysics and its applications |
-| When | TBD |
+| Abstract | [NS15C-0380](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/818064) |
+| Session | [NS013 - Open-source software for near-surface geophysics and its applications](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122971) |
+| When | Monday 13 December 2021 / 22:00 - 00:00 UTC |
+| Poster | [iPoster platform](https://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=D6-7C-10-44-E1-93-A6-5D-31-A5-54-52-5C-80-2D-0B) |
 
 
 ## Abstract
