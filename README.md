@@ -24,6 +24,19 @@ current functionality, recent developments, and lessons learned along the way.
 | When | Monday 13 December 2021 / 22:00 - 00:00 UTC |
 | Poster | [iPoster platform](https://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=D6-7C-10-44-E1-93-A6-5D-31-A5-54-52-5C-80-2D-0B) |
 
+The presentation is centered around a tutorial that walks you through the steps
+of transforming observed absolute gravity measurements into a grid of residual
+gravity disturbances at a constant height.
+The tutorial showcases some of the core utilities of all of our open-source
+libraries:
+
+1. Fetch and cache the data using [Pooch](https://github.com/fatiando/pooch)
+1. Calculate the gravity disturbance using [Boule](https://github.com/fatiando/boule)
+1. Interpolate data and apply map projections to grids using [Verde](https://github.com/fatiando/verde)
+1. Perform topographic correction and equivalent-source interpolation using [Harmonica](https://github.com/fatiando/harmonica)
+
+💻 Access the tutorial and **run it online** at: https://github.com/fatiando/tutorials
+
 
 ## Abstract
 
