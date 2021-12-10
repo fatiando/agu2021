@@ -37,6 +37,7 @@ libraries:
 
 💻 Access the tutorial and **run it online** at: https://github.com/fatiando/tutorials
 
+![Screenshot of our poster](https://github.com/fatiando/agu2021/raw/main/poster.png)
 
 ## Abstract
 
