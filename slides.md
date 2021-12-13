@@ -247,40 +247,32 @@ Still changing
 ---
 
 <div class="centered">
-
 <div>
 
 # Get involved
 
 <div class="container">
 <div class="col">
-
 <ul class="fa-ul">
-
 <li>
 <span class="fa-li"><i class="fa fa-home"></i></span>
 Learn more at <a href="https://www.fatiando.org">fatiando.org</a>
 </li>
-
 <li>
 <span class="fa-li"><i class="fab fa-slack"></i></span>
 Come say "Hi" on <a href="https://www.fatiando.org/contact">Slack</a>
 </li>
-
 <li>
 <span class="fa-li"><i class="fa fa-microphone-alt"></i></span>
 Join our weekly
 <a href="https://github.com/fatiando/community">video calls</a>
 </li>
-
 </ul>
-
 </div>
 <div class="col">
 <img src="assets/fatiando-community-call.jpg">
 </div>
 </div>
-
 </div>
 </div>
 
