@@ -1,0 +1,9 @@
+name: agu2021
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python==3.9
+    - pip
+    # To serve slides
+    - livereload

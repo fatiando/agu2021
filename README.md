@@ -23,6 +23,7 @@ current functionality, recent developments, and lessons learned along the way.
 | Session | [NS013 - Open-source software for near-surface geophysics and its applications](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122971) |
 | When | Monday 13 December 2021 / 22:00 - 00:00 UTC |
 | Poster | [iPoster platform](https://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=D6-7C-10-44-E1-93-A6-5D-31-A5-54-52-5C-80-2D-0B) |
+| Slides | [fatiando.org/agu2021](https://www.fatiando.org/agu2021) |
 
 The presentation is centered around a tutorial that walks you through the steps
 of transforming observed absolute gravity measurements into a grid of residual
@@ -36,6 +37,8 @@ libraries:
 1. Perform topographic correction and equivalent-source interpolation using [Harmonica](https://github.com/fatiando/harmonica)
 
 💻 Access the tutorial and **run it online** at: https://github.com/fatiando/tutorials
+
+The slides are for a 5-minute lightning talk.
 
 ![Screenshot of our poster](https://github.com/fatiando/agu2021/raw/main/poster.png)
 
